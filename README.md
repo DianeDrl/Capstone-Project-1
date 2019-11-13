@@ -10,3 +10,16 @@ In France, the distribution of healthcare professional on the whole territory is
 - The file "Capstone Project 1.ipynb" gathers all the code. 
 
 - The file "Capstone Project 1_Presentation is a presentation of the project spread over a few slides. 
+
+
+Intermediate steps:
+
+- The file "Capstone Project 1 Project Proposal.pdf" reports the project proposal.
+
+- The file "Capstone Project 1 Data Wrangling.pdf" describes the data wrangling steps choosen to clean datasets. 
+
+- The file "Capstone Project 1 Data Storytelling.pdf" reports the resulting visualizations and conclusions about the datasets.  
+
+- The file "Capstone Project 1 Exploratory Data Analysis.pdf" reports the steps and findings of the inferential statistical analysis.
+
+- The file "Capstone Project 1 Milestone Report.pdf" compiles all the previous reports (without the Machine Learning part).
