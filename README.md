@@ -9,7 +9,7 @@ In France, the distribution of healthcare professional on the whole territory is
 
 - The file "Capstone Project 1.ipynb" gathers all the code. 
 
-- The file "Capstone Project 1_Presentation is a presentation of the project spread over a few slides. 
+- The file "Capstone Project 1_Presentation.pdf" is a presentation of the project spread over a few slides. 
 
 
 Intermediate steps:
